@@ -2,6 +2,7 @@
 AWS learning 2021
 Overview section - This repo is used to save the AWS training related information.
 Get started git command
+login using the githubcli - gh repo clone suriyaaws2020/My-AWS-Learning-Starts-here
 #clone
 cd C:/Users/user/my_project(file_name)
 git init #clone
