@@ -1,0 +1,9 @@
+#commands used to create Linux EC2 and used the linux navigation commands.
+#command to navigate to home - pwd
+#command to navigate to path - cd <space> ..
+#command to create folder - mkdir <folder name>
+mkdir will create a new folder in home path as default
+#command to navigate into the folder created - cd <folder name>
+#command to create a new empty file under that folder - mkdir <file name>
+new file created under that folder.
+#command to list the files under that folder - ls
