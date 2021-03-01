@@ -1,1 +1,11 @@
 Overview section.
+Get started with GIT commands
+$ git clone https://github.com/(username)/reponame
+#the above command libe will clone the repo with respective username
+#we can use the open with github desktop hub under Code dropdown to naviagte to desktop and on authentication will clone the user name with local desktop
+$ git add .
+# Adds the file to the local repository and stages it for commit
+#to commit use the below cl
+$ git commit -m "Add existing file"
+# Commits the tracked changes and prepares them to be pushed to a remote repository.
+$ git status #git status used to check the recent changes made with files in repo
